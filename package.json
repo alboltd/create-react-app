@@ -58,6 +58,8 @@
     ]
   },
   "overrides": {
-    "parse-url": "6.0.5"
+    "handlebars": "4.7.10",
+    "parse-url": "6.0.5",
+    "plist": "3.1.1"
   }
 }
