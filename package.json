@@ -58,6 +58,7 @@
     ]
   },
   "overrides": {
+    "handlebars": "4.7.10",
     "plist": "3.1.1"
   }
 }
